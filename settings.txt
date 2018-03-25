@@ -1,0 +1,4 @@
+1
+C:\Users\Dev\PycharmProjects\MetodFranka\MetodFranka\res\dict\muller1995.txt
+1
+
